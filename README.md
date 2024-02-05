@@ -8,4 +8,5 @@ The App consist in an inventory of different brands of shoes. The user needs to 
 
 ![alt text](shoes.png)
 
+Created by Eddy Gonzalez
 
